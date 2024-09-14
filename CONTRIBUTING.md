@@ -182,7 +182,7 @@ file to help curate a list of projects and organizations that are friendly to co
 
 If you know of a project or organization that fits this description, feel free to add them to this list.
 
-The list is generally formatted like below.
+The list is generally formatted like below.    
 
 ```
 - [freeCodeCamp](https://www.freecodecamp.org/) (org)
@@ -211,3 +211,7 @@ This section will list any notations, terminology, or words that we will keep co
 - [Try Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 - [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+
+- [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+- [GitHub Docs](https://docs.github.com/en)
